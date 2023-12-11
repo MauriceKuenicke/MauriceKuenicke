@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maurice</h1>
 <h3 align="center">A passionate Software Engineer from Germany working as a Business Intelligence Consultant.</h3>
 
-🔭 Current side project: [Calypso Server](https://github.com/MauriceKuenicke/calypso)
+🔭 Current side project: [Apache Pulsar Topic Viewer]([https://github.com/MauriceKuenicke/calypso](https://github.com/MauriceKuenicke/pulsar-topic-viewer))
 
 <h3 align="left">Frontend Stack:</h3>
 <p align="left">
